@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     internal lateinit var profileCircleImageView: CircleImageView
     internal var profileImageUrl =
-            "https://avatars1.githubusercontent.com/u/53173732?s=460&u=c698214fab4a4be36f75cedf7b12e252880c7c4d&v=4"
+            "https://avatars2.githubusercontent.com/u/53173732?s=400&u=c3427382f015ce635366ac1a9f63ae3924211780&v=4"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
